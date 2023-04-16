@@ -1,6 +1,6 @@
- export const email = 'user888@gmail.com';
+ export const email = ;
  export const invalidEmail = 'test@test';
- export const password = '1234567890';
+ export const password = ;
  export const url ='https://www.edu.goit.global/pl/account/login';
 
    
